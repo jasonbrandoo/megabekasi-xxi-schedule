@@ -59,12 +59,9 @@ typings/
 
 # next.js build output
 .next
-<<<<<<< HEAD
 
 # vuepress build output
 .vuepress/dist
 
 # Serverless directories
 .serverless
-=======
->>>>>>> 943082e4eab656134a5ccd9d6203ca28380823fa
